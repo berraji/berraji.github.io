@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Brahim Erraji"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student at Inria Lille working on enforing fairness in the context of federated learning."
+  location         : "Lille, France"
+  employer         : "Inria"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "[firstname].[lastname]@inria.fr" 
 
   # Academic websites
   academia         : # URL
