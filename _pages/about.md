@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[cite_start]I am a PhD student at **INRIA** in Lille, France[cite: 2, 3]. [cite_start]My research focuses on the intersection of fairness and federated learning[cite: 8].
+I am a PhD student at **INRIA** in Lille, France. My research focuses on studying the optimzation properties of machine learning models to enforce fairness under different notions for the application of ditributed training (Federated Learning). Take a look at my publications to know more about work.
 
 ## Research Interests
 
@@ -19,11 +19,11 @@ redirect_from:
 ## Education
 
 * **PhD in Fairness in Federated Learning**
-  * [cite_start]INRIA, Lille, France (2023 - Present) [cite: 10]
+  * [cite_start]INRIA, Lille, France (2023 - Present) 
 
 * **MSc in Machine Learning**
-  * [cite_start]Mohamed Bin Zayed University of AI (MBZUAI), Abu Dhabi, UAE (2021 - 2023) [cite: 10]
+  * [cite_start]Mohamed Bin Zayed University of AI (MBZUAI), Abu Dhabi, UAE (2021 - 2023) 
 
 * **BSc in Data Science**
-  * [cite_start]Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco (2018 - 2021) [cite: 10]
+  * [cite_start]Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco (2018 - 2021) 
   
