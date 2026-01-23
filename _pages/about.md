@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,11 +19,11 @@ I am a PhD student at **INRIA** in Lille, France. My research focuses on studyin
 ## Education
 
 * **PhD in Fairness in Federated Learning**
-  * [cite_start]INRIA, Lille, France (2023 - Present) 
+  * INRIA, Lille, France (2023 - Present) 
 
 * **MSc in Machine Learning**
-  * [cite_start]Mohamed Bin Zayed University of AI (MBZUAI), Abu Dhabi, UAE (2021 - 2023) 
+  * Mohamed Bin Zayed University of AI (MBZUAI), Abu Dhabi, UAE (2021 - 2023) 
 
 * **BSc in Data Science**
-  * [cite_start]Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco (2018 - 2021) 
+  * Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco (2018 - 2021) 
   
