@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Brahim Erraji"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Inria Lille working on enforing fairness in the context of federated learning."
+  bio              : "PhD student at Inria Lille working on enforcing fairness in the context of federated learning."
   location         : "Lille, France"
   employer         : "Inria"
   uri              : # URL
