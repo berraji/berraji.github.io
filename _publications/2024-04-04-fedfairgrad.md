@@ -6,4 +6,5 @@ excerpt: "We address the problem of enforcing group fairness in federated learni
 date: 2024-04-04
 venue: "Conférence sur l'Apprentissage automatique"
 paperurl: 'https://berraji.github.io/files/fedfairgrad.pdf'
+citation: 'Paul Andrey, Brahim Erraji, Michaël Perrot. (2024). "Fairness-aware Reweighting in Federated Learning." <i>Conférence sur l&apos;Apprentissage automatique</i>.'
 ---
