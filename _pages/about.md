@@ -19,11 +19,14 @@ I am a PhD student at **INRIA** in Lille, France. My research focuses on studyin
 ## Education
 
 * **PhD in Fairness in Federated Learning**
-  * INRIA, Lille, France (2023 - Present) 
+  * INRIA, Lille, France (2023 - Present)
+  
 
 * **MSc in Machine Learning**
   * Mohamed Bin Zayed University of AI (MBZUAI), Abu Dhabi, UAE (2021 - 2023) 
+  * [Thesis: Personalized Learning with the Existence of Harmful Workers](/files/thesis_masters.pdf) 
 
 * **BSc in Data Science**
   * Mohammed VI Polytechnic University (UM6P), Ben Guerir, Morocco (2018 - 2021) 
+  * [Thesis: Economic Activity Estimation using Satellite Images and Machine Learning](/files/thesis_bachelor.pdf) 
   
