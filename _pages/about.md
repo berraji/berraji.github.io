@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at **INRIA** in Lille, France. My research focuses on studying the optimzation properties of machine learning models to enforce fairness under different notions for the application of ditributed training (Federated Learning). Take a look at my publications to know more about work.
+I am a PhD student at **INRIA** in Lille, France. My research focuses on studying the optimzation properties of machine learning models to enforce fairness under different notions for the application of distributed training (Federated Learning). Take a look at my publications to know more about my work.
 
 ## Research Interests
 
