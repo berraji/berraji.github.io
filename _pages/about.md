@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Brahim Erraji"
+excerpt: "Personal Website of Brahim Erraji"
 author_profile: true
 redirect_from: 
   - /about/
